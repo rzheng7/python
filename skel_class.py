@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Read and write ZIP files.
+class descriptions here
 """
 import os
 import sys
