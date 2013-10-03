@@ -25,6 +25,8 @@ class ClassName(object):
         """
         print "foo2"
 
+
+# the following code are test cases. 
 def usage():
     import textwrap
 
